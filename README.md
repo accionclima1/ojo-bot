@@ -69,3 +69,43 @@ Push it
 
 > docker push cappelaere/ojo_publisher_base_stack
 
+### Adding a new product
+
+Add the processing python file
+
+> /python/process_name.py 
+
+Add the S3 query file for the new product 
+
+> lib/s3queries
+
+Add the test to the front end streamer
+
+> /Users/augustovalerio/Sites/ojobot/ojo-bot/app/views/opensearch
+
+Add the swagger documentation
+
+> public/swagger/
+
+Tweak the language file
+
+> locale/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
