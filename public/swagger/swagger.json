@@ -173,7 +173,7 @@
     },
     "externalDocs": {
         "description": "Find out more about OJO",
-        "url": "http://ojo-bot.herokuapp.com"
+        "url": "http://ojo-bot-web-bk7fyyv-1755744781.us-west-2.elb.amazonaws.com"
     },
     "host": "ojo-bot.herokuapp.com",
     "info": {
@@ -185,7 +185,7 @@
             "name": "Apache 2.0",
             "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
         },
-        "termsOfService": "http://ojo-bot.herokuapp.com/terms/",
+        "termsOfService": "http://ojo-bot-web-bk7fyyv-1755744781.us-west-2.elb.amazonaws.com/terms/",
         "title": "OJO-BOT API",
         "version": "1.0.0"
     },

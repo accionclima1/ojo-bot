@@ -3,7 +3,7 @@
     "copyright":            "&copy; Vightel, 2013",
     "contact":              "Pat Cappelaere",
     "contact_mail":         "pat@cappelaere.com",
-    "HOSTBASEURL":          "http://ojo-bot.herokuapp.com",
+    "HOSTBASEURL":          "http://ojo-bot-web-bk7fyyv-1755744781.us-west-2.elb.amazonaws.com",
     "PORT":				    80,
     "worldmapid":           "cappelaere.map-1d8e1acq",
     "send_email": 		        1,
@@ -27,7 +27,7 @@
             "min_zoom":     7,
             "max_zoom":     18,
             "map_id":       "cappelaere.map-mx5g2tn3",
-            "bucket":       "ojo-d2",
+            "bucket":       "s3rccp",
             "ojotiler":     "http://ojo-tiler.herokuapp.com",
             "ojotiler-dev": "http://localhost:8888",
             "susmap":       "cappelaere.tbtvpyns"
@@ -101,7 +101,7 @@
             "map_id":       "cappelaere.map-q4hdwmh3",
             "bucket":       "ojo-d9",
             "ojotiler":     "http://ojo-tiler.herokuapp.com",
-            "ojobot":       "http://ojo-bot.herokuapp.com",
+            "ojobot":       "http://ojo-bot-web-bk7fyyv-1755744781.us-west-2.elb.amazonaws.com",
             "ojobot-dev":   "http://localhost:7465",
             "susmap":       "cappelaere.kj6mvx6r"
         },
@@ -114,7 +114,7 @@
             "map_id":       "cappelaere.map-q4hdwmh3",
             "bucket":       "ojo-d10",
             "ojotiler":     "http://ojo-tiler.herokuapp.com",
-            "ojobot":       "http://ojo-bot.herokuapp.com",
+            "ojobot":       "http://ojo-bot-web-bk7fyyv-1755744781.us-west-2.elb.amazonaws.com",
             "ojobot-dev":   "http://localhost:7465",
             "susmap":       "cappelaere.6tl0kfef"
         }
