@@ -105,7 +105,7 @@ regions		= {
 		'pixelsize':	0.008333333333330,
 		'thn_width':	720,
 		'thn_height':	240,
-        'tiles-zoom':   "2-6"
+        'tiles-zoom':   "s3rccp"
 	
 	},
 	'd02': {
@@ -119,7 +119,7 @@ regions		= {
 		'thn_width':	389,
 		'thn_height':	298,
 		'thn_zoom': 	5,
-		'bucket':		"ojo-d2",
+		'bucket':		"s3rccp",
 		'modis_tiles':  [
 			"100W020N",
 			"090W020N",
